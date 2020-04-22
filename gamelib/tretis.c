@@ -172,7 +172,7 @@ void tretis_filled_line(Tretis * g) {
 			break;
 
 		// mas se essa linha está cheia, destrói e incrementa os pontos
-		if (c == TW) {
+		if (!trans) {
 			// TODO: fazer animação de destruição (não essencial)
 
 			g->score += score;
