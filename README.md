@@ -9,7 +9,7 @@ Por "inspirado", quero dizer que o Tretis não é um "clone" do jogo original ne
 
 0. Clone o jogo com o git ou baixe o pacote zip;
 1. Instale no seu Debian-based distro (Ubuntu, Mint, etc.) os pacotes:
--> "gcc", "make" e "libncurses-dev";
+-> "build-essential" e "libncurses-dev";
 2. Execute o comando "make" (sem aspas) na raiz do diretório do jogo descompactado (/bla/bla/bla/Tretis), dentro do terminal.
 3. Se compilou, a última linha do make mostra como executar o jogo.
 
@@ -19,7 +19,7 @@ Por "inspirado", quero dizer que o Tretis não é um "clone" do jogo original ne
 ### Como jogo no Android?
 
 Praticamente os mesmos passos, utilizando o Termux (um terminal e portátil shell de Linux).
-Mas substitua "gcc" por "clang", e "libncurses-dev" por apenas "ncurses".
+Mas substitua "build-essential" por "clang" e "make" (separados por espaços somente!), e "libncurses-dev" por apenas "ncurses".
 Exemplo de instalação dos pacotes anteriores com o Termux, no seu dispositivo Android:
 
 ```$ pkg install clang make ncurses```
