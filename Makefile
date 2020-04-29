@@ -8,7 +8,7 @@ all: gamelib-comp blah-only linkall
 	# RUN ./tetris.run AND HAVE FUN!
 
 linkall:
-	$(CC) blah.o $(GL)/tretis.o $(SPRS)/sprite.o $(SPRS)/brick*.o -lncursesw -o tretis.run
+	cc blah.o $(GL)/tretis.o $(SPRS)/sprite.o $(SPRS)/brick*.o -lncursesw -o tretis.run
 
 gamelib-comp:
 	cd $(GL) && make
