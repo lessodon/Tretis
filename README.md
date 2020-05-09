@@ -4,6 +4,8 @@
 Este jogo é inspirado no jogo famoso do Brick Game, um dispositivo de jogos eletrônicos portátil que você deve conhecer se nasceu antes de meados de 2010.
 Por "inspirado", quero dizer que o Tretis não é um "clone" do jogo original nem almeija ser.
 
+![Jogando Tretis no terminal](https://raw.githubusercontent.com/lessodon/Tretis/master/image/Tretis.png)
+
 
 ## COMPILANDO E INSTALANDO
 
