@@ -108,7 +108,7 @@ static void about() {
 	puts("\"Tretis\" name is Arthur C. (@arthurware@mastodon.com.br) idea.\n");
 
 	printf("\nACTUAL ABOUT SECTION %lc\n\n", 0x1F914);
-	puts("The idea to develop this came after watching a video from Tropia (brazilian web video channel) talking about \"Por que empilhar blocos é tão bom?\".");
+	puts("The idea to develop this came after watching a video from Tropia (brazilian \"youtuber\") talking about \"Por que empilhar blocos é tão bom?\".");
 	puts("This game is also a challenge to prove myself I CAN develop a more complex program than just simple maths and analysis tools.");
 	puts("That's because it was thought days after giving up a great opportunity for my developer career, because I was exhausted and very discouraged.\n");
 
