@@ -118,8 +118,6 @@ static void about() {
 	puts("\nCONTACT ME!\n");
 	puts("My bricks are destroying your computer's head? Please contact me!");
 	printf("%lc GitHub: /lessodon\n", 0x1F4BB);
-	printf("%lc Keybase: /lessodon\n", 0x1F4F1);
-	printf("%lc Instagram: /lessodon\n", 0x1F4F8);
-	printf("%lc mas.to: /@lessodon\n", 0x1F418);
-	printf("%lc mastodon.com.br: /@lessodon\n", 0x1F418);
+	printf("%lc instagram.com/lonelyagboy\n", 0x1F4F8);
+	printf("%lc mstdn.social/@lonelyagboy\n", 0x1F418);
 }
