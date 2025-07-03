@@ -38,3 +38,12 @@ Considere trocar de teclado. O teclado virtual de várias fabricantes que vem in
 Sugestão: instale o Hacker's Keyboard, ou o troque pelo teclado oficial do Android.
 
 Divirta-se!
+
+
+## AUTORIA
+
+Após anos em banho maria torcendo pra que alguém achasse esse jogo através de meus perfis oficiais, CANSEI – é, ninguém foi stalker meu o suficiente…  :'(
+
+Tales (lessodon) é um alterego e quem criou esse alter fui eu, ![Leshto](https://github.com/cledsupper)
+
+Enfim, era só isso, mesmo.
